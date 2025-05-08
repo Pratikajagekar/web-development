@@ -1,0 +1,52 @@
+
+library {
+  display: block;
+  font-family: sans-serif;
+  padding: 30px;
+
+}
+
+book {
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 10px 0;
+  font-size: 500px;
+  border: solid;
+  background-color: lightgrey;
+  width: 95%;
+  margin-left: 20px;
+}
+
+title {
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  
+}
+
+author {
+  display: block;
+  font-style: normal;
+  color: #333333;
+  font-size: 20px;
+  color: black;
+}
+
+year {
+  display: block;
+  color: #333333;
+  font-size: 20px;
+  color: black;
+}
+
+price {
+  display: block;
+  color: #333333;
+  font-size: 20px;
+  font-weight: normal;
+  color: black;
+}
+book,title,author,year,price{
+  padding: 5px;
+}

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Grocery Bill</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f0f8ff;
+			margin: 20px;
+		}
+
+		h3 {
+			color: #333;
+			margin-bottom: 10px;
+		}
+
+		table {
+			border-collapse: collapse;
+			width: 70%;
+			background-color: #e0f7fa;
+			border: solid;
+		}
+
+		th, td {
+			border: 1px solid ;
+			padding: 12px;
+			text-align: center;
+			border-color: green;
+			background-color: lightgreen;
+		}
+
+		th {
+			background-color: green;
+			color: white;
+		}
+
+		tfoot td {
+			font-weight: bold;
+			background-color: lightgreen;
+		}
+
+		center {
+			margin-top: 40px;
+		}
+	</style>
+</head>
+<body>
+	<center>
+		<h3>Grocery Bill<hr></h3>
+		<table>
+			<tr>
+				<th>Sr No.</th>
+				<th>Item</th>
+				<th>Quantity</th>
+				<th>Price</th>
+				<th>Total</th>
+			</tr>
+
+			<tr>
+				<td>1</td>
+				<td>XYZ</td>
+				<td>2</td>
+				<td>100</td>
+				<td>200</td>
+			</tr>
+
+			<tr>
+				<td>2</td>
+				<td>PQR</td>
+				<td>10</td>
+				<td>50</td>
+				<td>500</td>
+			</tr>
+
+			<tr>
+				<td>3</td>
+				<td>ABC</td>
+				<td>1</td>
+				<td>250</td>
+				<td>250</td>
+			</tr>
+
+			<tr>
+				<td>4</td>
+				<td>MNL</td>
+				<td>5</td>
+				<td>75</td>
+				<td>375</td>
+			</tr>
+
+			<tr>
+				<td>5</td>
+				<td>DEF</td>
+				<td>3</td>
+				<td>300</td>
+				<td>900</td>
+			</tr>
+
+			<tfoot>
+				<tr>
+					<td colspan="4">Net amount</td>
+					<td>2225</td>
+				</tr>
+			</tfoot>
+		</table>
+	</center>
+</body>
+</html>

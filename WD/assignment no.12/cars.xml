@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="cars.css"?>
+<?xml-stylesheet type = "text/xsl" href = "cars.xsl"?> 
+<carstore>
+  <car>
+    <make>1.Toyota</make>
+    <model>Camry</model>
+    <year>2020</year>
+    <price>₹ 25,00,000/-</price>
+    <cc>2000cc</cc>
+    <fueltype>Diesel/Petrol</fueltype>
+  </car>
+
+  <car>
+    <make>2.Honda</make>
+    <model>Civic</model>
+    <year>2019</year>
+    <price>₹ 20,00,000/-</price>
+    <cc>1800cc</cc>
+    <fueltype>Diesel</fueltype>
+  </car>
+
+  <car>
+    <make>3.Ford</make>
+    <model>Mustang</model>
+    <year>2021</year>
+    <price>₹ 80,00,000/-</price>
+    <cc>5000cc</cc>
+    <fueltype>Diesel</fueltype>
+  </car>
+
+  <car>
+    <make>4.Chevrolet</make>
+    <model>Cruze</model>
+    <year>2018</year>
+    <price>₹ 20,00,000/-</price>
+    <cc>2200cc</cc>
+    <fueltype>Diesel/Petrol</fueltype>
+  </car>
+
+  <car>
+    <make>5.BMW</make>
+    <model>340i //M</model>
+    <year>2022</year>
+    <price>₹ 85,00,000/-</price>
+    <cc>2500cc</cc>
+    <fueltype>Petrol</fueltype>
+  </car>
+
+  <car>
+    <make>6.Audi</make>
+    <model>r8</model>
+    <year>2021</year>
+    <price>₹ 2,45,00,000/-</price>
+    <cc>5204cc</cc>
+    <fueltype>Petrol</fueltype>
+  </car>
+
+  <car>
+    <make>7.Mercedes-Benz</make>
+    <model>A-Class</model>
+    <year>2020</year>
+    <price>₹ 55,00,000/-</price>
+    <cc>2000cc</cc>
+    <fueltype>Petrol</fueltype>
+  </car>
+
+  <car>
+    <make>8.jeep</make>
+    <model>Wrangler</model>
+    <year>2022</year>
+    <price>₹ 75,00,000/-</price>
+    <cc>2000cc</cc>
+    <fueltype>Diesel/Petrol</fueltype>
+  </car>
+
+  <car>
+    <make>9.Honda</make>
+    <model>Wrv</model>
+    <year>2017</year>
+    <price>₹ 13,00,000/-</price>
+    <cc>1500cc</cc>
+    <fueltype>Diesel/Petrol</fueltype>
+  </car>
+
+  <car>
+    <make>10.Kia</make>
+    <model>Seltos</model>
+    <year>2018</year>
+    <price>₹ 24,00,000/-</price>
+    <cc>1500cc</cc>
+    <fueltype>Diesel/Petrol</fueltype>
+  </car>
+
+</carstore>

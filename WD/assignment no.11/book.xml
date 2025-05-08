@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<?xml-stylesheet type = "text/xsl" href = "book.xsl"?> 
+
+<bookstore>
+ <book>
+    <title>1.An introduction to data structures with application</title>
+    <author>Jean-Paul Tremblay, Paul Soresan </author>
+    <year>2000</year>
+    <price>₹ 1500/-</price>
+  </book>
+
+ <book>
+    <title>2.Data Structure using C (2nd edition)</title>
+    <author>A.M.Tremblay</author>
+    <year>2007</year>
+    <price>₹ 300/-</price>
+  </book>
+
+ <book>
+    <title>3.Foundations of software testing</title>
+    <author>Aditya Mathur</author>
+	<year>2003</year>
+    <price>₹ 700/-</price>
+  </book>
+
+   <book>
+    <title>4.Software testing and automata</title>
+    <author>Blurich Edward</author>
+    <year>1998</year>
+    <price>₹ 1550/-</price>
+  </book>
+ 
+ <book>
+  <title>5.Handbook of environmental laws</title>
+    <author>R.K.Trivedi</author>
+    <year>2013</year>
+    <price>₹ 4500/-</price>
+  </book>
+ 
+ <book>
+  <title>6.Introduction to environmental engineering</title>
+    <author>Anubha Kaushik</author>
+    <year>2010</year>
+    <price>₹ 3300/-</price>
+  </book>
+
+   <book>
+  <title>7.Java: The Complete Reference</title>
+    <author>Herbert Schildt</author>
+    <year>1990</year>
+    <price>₹ 2500/-</price>
+  </book>
+
+   <book>
+  <title>8.Effective Java</title>
+    <author>Joshua Bloch</author>
+    <year>2018</year>
+    <price>₹ 1200/-</price>
+  </book>
+
+   <book>
+  <title>9.Head First Java</title>
+    <author>Kathy Sierra, Bert Bates</author>
+    <year>2005</year>
+    <price>₹ 2000/-</price>
+  </book>
+
+   <book>
+  <title>10.Core Java Volume I – Fundamentals</title>
+    <author>Cay S. Horstmann</author>
+    <year>2018</year>
+    <price>₹ 4000/-</price>
+  </book>
+
+</bookstore>

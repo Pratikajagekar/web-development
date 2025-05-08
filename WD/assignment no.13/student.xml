@@ -1,0 +1,34 @@
+<?xml version = "1.0"?> 
+<?xml-stylesheet type = "text/xsl" href = "student.xsl"?> 
+<class> 
+   <student rollno = "101">
+      <firstname>Dinkar</firstname> 
+      <lastname>gaikwad</lastname> 
+      <nickname>Dinkar</nickname> 
+      <marks>78</marks>
+   </student> 
+   <student rollno = "102"> 
+      <firstname>soham</firstname> 
+      <lastname>patil</lastname> 
+      <nickname>soham</nickname> 
+      <marks>92</marks>
+   </student>
+ <student rollno = "103"> 
+   <firstname>sahil</firstname> 
+    <lastname>parek</lastname> 
+    <nickname>sahil</nickname> 
+    <marks>63</marks> 
+   </student>
+<student rollno = "104"> 
+   <firstname>prathamesh</firstname> 
+    <lastname>jadhav</lastname> 
+    <nickname>pratham</nickname> 
+    <marks>69</marks> 
+   </student> 
+<student rollno = "105"> 
+   <firstname>aditya</firstname> 
+    <lastname>khade</lastname> 
+    <nickname>adi</nickname> 
+    <marks>86</marks> 
+   </student> 
+</class>
